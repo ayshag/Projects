@@ -1,1 +1,1 @@
-# CMPE273
+# Various React/Redux Projects
